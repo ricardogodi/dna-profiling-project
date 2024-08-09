@@ -1,4 +1,4 @@
-## DNA Profiling Application README
+## DNA Profiling Application (Access to Full Repository Available Upon Request)
 
 ### Project Overview
 The DNA Profiling Application is a C++ developed system that performs identity verification using DNA sequences. It analyzes Short Tandem Repeats (STRs) to identify individuals from a database of known DNA profiles.
@@ -37,6 +37,10 @@ The application supports several commands for interaction:
 - **process**: Processes the loaded DNA against the database to find matches.
 - **search**: Conducts a search to identify a DNA match in the database.
 - **#**: Exits the application.
+
+## Code Availability
+
+Due to copyright restrictions, the complete source code is not included in this public repository. However, if you are interested in reviewing the full code, I can provide access to the entire private repository. Please contact me directly, and I will be happy to grant you permission to read the repository.
 
 ## Copyright and Acknowledgments
 
